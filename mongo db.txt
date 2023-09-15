@@ -1,0 +1,6 @@
+mongo db
+email:pulkitamga0610@gmail.com
+pwd: pul06@amga
+
+username:pulkitamga0610
+pwd:ZgVyEyIrLtv0q0nS
